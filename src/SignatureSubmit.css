@@ -1,0 +1,23 @@
+.signature-container{
+    margin-top: 48px;
+    margin-left: 270px !important;
+    padding: 20px 20px;
+}
+.current-signature{
+    padding: 20px 20px;
+    width: 550px;
+}
+.present-signature{
+    padding: 20px 20px;
+}
+.signature-canvas{
+    border: 2px solid #BE3144 !important;
+    border-radius: 16px !important;
+}
+.acknowladge{
+    text-align: center;
+    padding: 20px 20px;
+    border:1px solid #BE3144;
+    /* background-color: #22092C; */
+    /* color:#fff; */
+}

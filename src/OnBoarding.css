@@ -1,0 +1,27 @@
+.filter-block{
+    border-right: 2px solid #22092C;
+    /* background-color: #985e6d ; */
+    /* background-color: #22092C; */
+    width:250px;
+    color:#fff;
+    padding: 10px 10px;
+}
+.header-block{
+    min-height: 89%;
+    
+}
+.filter-head{
+    text-align: center;
+    margin-top: 25px;
+    padding: 6px 5px;
+    /* color: #000; */
+    background: #BE3144;
+    border-radius: 16px;
+}
+.filter-body{
+    padding:10px 10px;
+    margin-top:28px;
+}
+.main-block{
+    width:100%;
+}

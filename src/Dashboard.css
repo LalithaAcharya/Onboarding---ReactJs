@@ -1,0 +1,20 @@
+.dash-container{
+    height: 89vh;
+    width: 100vw;
+}
+.heading{
+    padding: 40px 40px 0px 40px;
+}
+.text-count{
+    text-align: end;
+}
+
+.card{
+    background-color: #BE3144 !important;
+    color:white !important;
+    border: 2px solid #BE3144 !important;
+}
+.filter-container{
+    border-right:2px solid #22092C;
+}
+

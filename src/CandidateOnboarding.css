@@ -1,0 +1,30 @@
+.accordion-container{
+    padding:40px 40px;
+}
+
+
+.accordion-button:not(.collapsed){
+    background-color: #98878f !important;
+    color:#fff !important;
+}
+.accordion-body{
+    /* background-color: #e9e7da; */
+}
+.accordion-item{
+    margin-top:15px;
+}
+
+.accordion-item:not(:first-of-type){
+    border-top:var(--bs-accordion-border-width) solid var(--bs-accordion-border-color)  !important;
+}
+.block{
+    padding: 20px 20px;
+    /* border: 2px solid #985e6d; */
+    /* background: #e9e7da; */
+    border-radius: 16px;
+}
+.head{
+    padding: 20px 20px;
+    border:1px solid #98878f;
+    border-radius: 16px;
+}

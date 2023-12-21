@@ -1,0 +1,35 @@
+.dash-container{
+    padding:40px 40px;
+}
+.head-container{
+    padding: 10px 10px;
+}
+.dash-main-content{
+    background-color: #fff;
+    border:1px solid #494e6b;
+    /* color:#fff; */
+}
+.info-container{
+    padding:40px 40px;
+    border-right:2px dotted #494e6b;
+}
+.img{
+    padding: 10px 10px;
+}
+.details{
+    padding:20px 20px;
+}
+.onboarding{
+    padding:30px 30px;
+    text-align: center;
+}
+.status-container{
+    padding:20px 20px;
+    text-align: center;
+    background-color: #872341;
+    color:#fff;
+    margin-top:30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

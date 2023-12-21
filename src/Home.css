@@ -1,0 +1,23 @@
+.left-container{
+    /* background-color: #BE3144; */
+    width: 700px;
+    height: 500px;
+    margin-top: 60px;
+}
+.right{
+    margin-top: 60px;
+    width: 550px;
+    height: 500px;
+    /* background: #872341 !important; */
+}
+.slick-prev, .slick-next{
+    background: #872341 !important;
+}
+.application-name{
+    margin-top:25%;
+    padding: 20px 20px;
+    color:#872341;
+}
+.sub{
+    color:#22092C !important;
+}

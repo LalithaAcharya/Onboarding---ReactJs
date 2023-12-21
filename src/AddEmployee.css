@@ -1,0 +1,16 @@
+.form-block{
+    background-color: #494e6b;
+    color:#fff;
+    padding:10px 10px;
+    margin-top:5px;
+}
+.btn{
+    margin-left: 5px;
+}
+.model-head{
+    background-color: #F05941;
+    border-radius: 16px;
+    padding: 20px 20px;
+    color: white;
+    justify-content: space-between;
+}

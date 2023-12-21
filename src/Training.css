@@ -1,0 +1,17 @@
+.training-container{
+    margin-top:100px !important;
+    margin-left:230px !important;
+    padding:0px 20px 20px 20px;
+}
+.lefts-container{
+    /* background-color: #BE3144; */
+    width: 600px;
+    height: 500px;
+    margin-top: 60px;
+}
+.rights{
+    margin-top: 60px;
+    width: 450px;
+    height: 500px;
+    /* background: #872341 !important; */
+}

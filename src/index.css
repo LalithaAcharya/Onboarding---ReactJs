@@ -1,3 +1,15 @@
+html, body {
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+}
+#root {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 0;  
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +17,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-color: #e9e7da !important ; */
+  /* background-image: url("https://cullmanmap.info/wp-content/uploads/2020/12/730747_170109tipsforday1_Omoth_hero.jpg"); */
 }
 
 code {
